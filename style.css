@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+#slider{
+    height: 70vh;
+    width: 100vw;
+    position: relative;
+    border: 1px black solid;
+}
+
+.navigate{
+    padding: 1vh 1vw;
+    background-color: rgba(231, 224, 224, 0.364);
+    position: absolute;
+    top: 45%;
+    z-index: 1;
+}
+
+.left{
+    left: 1vw;
+}
+
+.right{
+    right: 1vw;
+}
