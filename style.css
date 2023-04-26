@@ -17,6 +17,7 @@ img{
 }
 
 .navigate{
+    cursor: pointer;
     padding: 1vh 1vw;
     background-color: rgba(231, 224, 224, 0.364);
     position: absolute;
